@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+nav{
+    background-color: #34baeb;
+    color: highlight;
+    width: 100%;
+}
+nav a:hover{
+    color: purple;
+}
+button{
+    background-color: #34baeb;
+    color: white;
+    width: 500px;
+    height: 50px;
+    cursor: pointer;
+}
+.msg {
+    background-color: #34baeb;
+    color: white;
+}
+.text{
+    background-color: #34baeb;
+    color: white;
+}
+.email{
+    background-color: #34baeb;
+    color: white;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/29/11/29/nepal-2184940_1280.jpg);
+}
